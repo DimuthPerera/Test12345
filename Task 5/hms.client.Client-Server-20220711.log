@@ -1,0 +1,18 @@
+2022-07-11 14:28:38.301 [main] DEBUG hms.server.Server - SERVER - App Start
+2022-07-11 14:28:38.309 [main] DEBUG hms.server.Server - SERVER - Assigned The Port Number 6666
+2022-07-11 14:28:38.311 [main] DEBUG hms.server.Server - SERVER - Starting To Accept hms.client.Client Requests
+2022-07-11 14:30:16.085 [main] DEBUG hms.server.Server - SERVER - App Start
+2022-07-11 14:30:16.091 [main] DEBUG hms.server.Server - SERVER - Assigned The Port Number 6666
+2022-07-11 14:30:16.093 [main] DEBUG hms.server.Server - SERVER - Starting To Accept hms.client.Client Requests
+2022-07-11 14:36:33.092 [Thread-1] DEBUG hms.client.Client - CLIENT - App Start
+2022-07-11 14:36:33.113 [Thread-1] DEBUG hms.client.Client - CLIENT - Trying To Connect Port 6666 Localhost
+2022-07-11 14:36:33.116 [Thread-1] DEBUG hms.client.Client - CLIENT - Connected Successfully
+2022-07-11 14:36:33.118 [Thread-1] DEBUG hms.client.Client - CLIENT - Ready To Send Data To hms.server.Server
+2022-07-11 14:36:33.119 [Thread-0] DEBUG hms.server.Server - SERVER - While Loop Started
+2022-07-11 14:36:54.035 [Thread-1] DEBUG hms.client.Client - CLIENT - Starting To Send The Data To hms.server.Server
+2022-07-11 14:36:54.315 [Thread-1] DEBUG hms.client.Client - CLIENT - Data Sent : {"name":"abcd","address":"erwer","phoneNumber":2342342,"id":0}
+2022-07-11 14:36:54.317 [Thread-0] DEBUG hms.server.Server - SERVER - Received Data : {"name":"abcd","address":"erwer","phoneNumber":2342342,"id":0}
+2022-07-11 14:36:54.317 [Thread-1] DEBUG hms.client.Client - CLIENT - Menu Displayed
+2022-07-11 14:37:09.530 [Thread-0] DEBUG hms.server.Server - SERVER - While Loop Started
+2022-07-11 14:37:09.530 [Thread-1] DEBUG hms.client.Client - CLIENT - User Chose To Break Loop
+2022-07-11 14:37:09.530 [Thread-1] DEBUG hms.client.Client - CLIENT - Program Stopped

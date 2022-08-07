@@ -1,0 +1,26 @@
+2022-07-12 09:42:03.436 [Thread-1] DEBUG hms.client.Client - CLIENT - App Start
+2022-07-12 09:42:03.546 [Thread-1] DEBUG hms.client.Client - CLIENT - Trying To Connect Port 6666 Localhost
+2022-07-12 09:42:03.554 [Thread-1] DEBUG hms.client.Client - CLIENT - Connected Successfully
+2022-07-12 09:42:03.556 [Thread-1] DEBUG hms.client.Client - CLIENT - Ready To Send Data To hms.server.Server
+2022-07-12 09:42:03.587 [Thread-0] DEBUG hms.server.Server - SERVER - While Loop Started
+2022-07-12 09:42:10.411 [Thread-1] DEBUG hms.client.Client - CLIENT - Starting To Send The Data To hms.server.Server
+2022-07-12 09:42:10.683 [Thread-1] DEBUG hms.client.Client - CLIENT - Data Sent : {"address":"edhfhd","phoneNumber":23525,"name":"ewtwet","id":0}
+2022-07-12 09:42:10.685 [Thread-1] DEBUG hms.client.Client - CLIENT - Menu Displayed
+2022-07-12 09:42:10.685 [Thread-0] DEBUG hms.server.Server - SERVER - Received Data : {"address":"edhfhd","phoneNumber":23525,"name":"ewtwet","id":0}
+2022-07-12 09:42:44.260 [Thread-1] DEBUG hms.client.Client - CLIENT - Loop Continues
+2022-07-12 09:42:54.935 [Thread-0] DEBUG hms.server.Server - SERVER - While Loop Started
+2022-07-12 09:43:01.693 [Thread-1] DEBUG hms.client.Client - CLIENT - Starting To Send The Data To hms.server.Server
+2022-07-12 09:43:01.697 [Thread-1] DEBUG hms.client.Client - CLIENT - Data Sent : {"address":"wet","phoneNumber":43253,"name":"2352","id":0}
+2022-07-12 09:43:01.699 [Thread-1] DEBUG hms.client.Client - CLIENT - Menu Displayed
+2022-07-12 09:43:01.699 [Thread-0] DEBUG hms.server.Server - SERVER - Received Data : {"address":"wet","phoneNumber":43253,"name":"2352","id":0}
+2022-07-12 09:43:07.296 [Thread-1] DEBUG hms.client.Client - CLIENT - Loop Continues
+2022-07-12 10:14:54.365 [Thread-1] DEBUG hms.client.Client - CLIENT - App Start
+2022-07-12 10:14:54.381 [Thread-1] DEBUG hms.client.Client - CLIENT - Trying To Connect Port 6666 Localhost
+2022-07-12 10:14:54.384 [Thread-1] DEBUG hms.client.Client - CLIENT - Connected Successfully
+2022-07-12 10:14:54.385 [Thread-1] DEBUG hms.client.Client - CLIENT - Ready To Send Data To hms.server.Server
+2022-07-12 10:14:54.390 [Thread-0] DEBUG hms.server.Server - SERVER - While Loop Started
+2022-07-12 10:15:10.396 [Thread-1] DEBUG hms.client.Client - CLIENT - Starting To Send The Data To hms.server.Server
+2022-07-12 10:15:10.791 [Thread-1] DEBUG hms.client.Client - CLIENT - Data Sent : {"address":"test2","phoneNumber":1234,"name":"test1","id":0}
+2022-07-12 10:15:10.793 [Thread-0] DEBUG hms.server.Server - SERVER - Received Data : {"address":"test2","phoneNumber":1234,"name":"test1","id":0}
+2022-07-12 10:15:10.793 [Thread-1] DEBUG hms.client.Client - CLIENT - Menu Displayed
+2022-07-12 10:15:39.503 [Thread-1] DEBUG hms.client.Client - CLIENT - Loop Continues
